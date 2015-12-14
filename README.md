@@ -1,7 +1,6 @@
 TO PLAY:
 
-Either run "Connect4.java"'s main, 
-or click on the "285 p5.jar" file provided.
+Download the zip, and then click on the "Connect4.jar" file
 
 The two players will click on either the "Host a game" or "Join a game" button on the welcome screen, but the host MUST finish setting up first.
 
