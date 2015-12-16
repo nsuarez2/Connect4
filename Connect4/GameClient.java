@@ -492,7 +492,7 @@ public class GameClient extends JFrame {
     }
 
     public void startChat() {
-        enterMessage.requestFocusInWindow();
+        //enterMessage.requestFocusInWindow();
         new ChatWorker().execute();
     }
 
