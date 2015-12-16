@@ -106,6 +106,7 @@ public class GameClient extends JFrame {
         sendButton = new JButton("Send");
 
         // Allows messages to be entered without clicking in the field
+        /*
         enterMessage.addFocusListener(new FocusListener() {
             public void focusGained(FocusEvent e) {
                 //Do nothing
@@ -114,6 +115,7 @@ public class GameClient extends JFrame {
                 enterMessage.requestFocusInWindow();
             }
         });
+        */
 
         // Allows messages to send by hitting enter
         JRootPane rootPane = getRootPane();
